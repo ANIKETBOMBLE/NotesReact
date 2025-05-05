@@ -72,6 +72,7 @@ function App() {
               </span>
               <span className="text-xs text-gray-500">
                 {new Date().toLocaleDateString()} - {new Date().toLocaleTimeString()}
+                
               </span>
             </div>
             <p className="text-gray-700 max-h-40 overflow-y-auto">
